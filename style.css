@@ -1,8 +1,19 @@
 
+
 body{
     background: #2F1893;
 }
-.nav-bar{
+.container{
+color: aliceblue;
+display: flex;
+}
+.nav-link{
     color: aliceblue;
+    width: 50%;
     display: flex;
+   justify-content: space-around;
+   
+}
+.logo > h4{
+  display: inline;
 }
