@@ -1,4 +1,6 @@
-
+*{
+    font-family: sans-serif;
+}
 
 body{
     background: #2F1893;
@@ -6,14 +8,24 @@ body{
 .container{
 color: aliceblue;
 display: flex;
+padding: 40px;
 }
 .nav-link{
     color: aliceblue;
-    width: 50%;
+    width: 48%;
     display: flex;
    justify-content: space-around;
-   
+   position: absolute;
+   right: 50px;
 }
 .logo > h4{
   display: inline;
+  margin: 20px;
+}
+.nav-item1{
+    background-color:#E93A7D;
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    
 }
