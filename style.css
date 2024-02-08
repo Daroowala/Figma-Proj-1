@@ -1,31 +1,31 @@
-*{
-    font-family: sans-serif;
+* {
+  font-family: sans-serif;
 }
 
-body{
-    background: #2F1893;
+body {
+  background: #2f1893;
 }
-.container{
-color: aliceblue;
-display: flex;
-padding: 40px;
+.container {
+  width: 972px;
+  color: aliceblue;
+  display: flex;
+  padding: 40px;
 }
-.nav-link{
-    color: aliceblue;
-    width: 48%;
-    display: flex;
-   justify-content: space-around;
-   position: absolute;
-   right: 50px;
+.nav-link {
+  color: aliceblue;
+  width: 503px;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  
 }
-.logo > h4{
+.logo > h4 {
   display: inline;
   margin: 20px;
 }
-.nav-item1{
-    background-color:#E93A7D;
-    border-radius: 20px;
-    width: 120px;
-    height: 40px;
-    
+.nav-item1 {
+  background-color: #e93a7d;
+  border-radius: 20px;
+  width: 120px;
+  height: 40px;
 }
