@@ -5,27 +5,18 @@
 body {
   background: #2f1893;
 }
-.container {
-  width: 972px;
-  color: aliceblue;
-  display: flex;
-  padding: 40px;
+.container{
+    color: aliceblue;
 }
-.nav-link {
-  color: aliceblue;
-  width: 503px;
-  height: 40px;
-  display: flex;
-  justify-content: space-around;
-  
+.nav-container{
 }
-.logo > h4 {
-  display: inline;
-  margin: 20px;
+.nav-link{ 
+    display: flex; 
+    justify-content: right;
+    
+   
 }
-.nav-item1 {
-  background-color: #e93a7d;
-  border-radius: 20px;
-  width: 120px;
-  height: 40px;
+.logo{
+    display: flex;
+    
 }
