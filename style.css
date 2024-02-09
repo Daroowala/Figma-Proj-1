@@ -50,14 +50,14 @@ p{
   font-size: 22px;
   line-height: 32px;
 }
-button{
+.learn{
   background-color: #e93a7d;
   color: white;
   font-size: 16px;
   width: 157px;
   height: 50px;
   border-radius: 100px;
-  
+  border-color: #e93a7d;
 }
 fieldset{
   width: 430px;
@@ -67,4 +67,44 @@ fieldset{
   top: 128px;
   border-radius: 20px;
   background-color: #EBEAED;
+}
+h3{
+  font-size: 42px;
+  text-align: center;
+  color: #1E0E62;
+}
+.formbar{
+ padding: 5px 5px 0px 30px;
+ margin: 5px 5px 0px 3px;
+  border: 1px solid black;
+  width: 270px;
+  height: 30px;
+  border-radius: 20px;
+  position: relative;
+  left: 60px; 
+  top: -15px;
+}
+.chbox{
+  position: relative;
+  left: -244px;
+  top: 0px;
+}
+.terms{
+  font-size: 18px;
+  text-align: center;
+  width: 300px;
+  position: relative;
+  left: 62px;
+}
+.bt1{
+  position: relative;
+  font-size: 18px;
+  right: -57px;
+  bottom: -28px;
+  width: 320px;
+  height: 40px;
+  border-radius: 100px;
+  color: white;
+  background: #2F1893;
+border-color: #2F1893;
 }
