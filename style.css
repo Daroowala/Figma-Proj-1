@@ -5,37 +5,34 @@
 body {
   background: #2f1893;
 }
-.container{
-    color: aliceblue;
-    margin: 50px;
-   width: 940px;
-   height: 490px;
+.container {
+  color: aliceblue;
+  margin: 50px;
+  width: 940px;
+  height: 490px;
 }
-.nav-container{
-  width: 850px;
+.nav-container {
+  width: 940px;
   height: 40px;
-  margin: 20px 20px 20px 40px;
+  margin: 0px 0px 0px -30px;
 }
-.nav-link{ 
-    display: flex; 
-    justify-content: right;
-    justify-content: space-around;
-   margin: -18px 49px 0px 375px;
-   
+.nav-link {
+  display: flex;
+  justify-content: right;
+  justify-content: space-around;
+  margin: -17px 60px 0px 410px;
 }
-.logo{
-    display: flex;
-    margin: 60px 0px 0px 50px;
+.logo {
+  display: flex;
+  margin: 0px 0px 0px 50px;
 }
-.nav-item1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color:#E93A7D;
-    width: 120px;
-    height: 40px;
-    border-radius: 100px;
-    margin: -12px -45px 0px -5px;
-    
-   
+.nav-item1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e93a7d;
+  width: 120px;
+  height: 40px;
+  border-radius: 100px;
+  margin: -12px -45px 0px -5px;
 }
