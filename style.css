@@ -7,9 +7,14 @@ body {
 }
 .container{
     color: aliceblue;
-    
+    margin: 50px;
+   width: 940px;
+   height: 490px;
 }
 .nav-container{
+  width: 850px;
+  height: 40px;
+  margin: 20px 20px 20px 40px;
 }
 .nav-link{ 
     display: flex; 
