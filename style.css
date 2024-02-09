@@ -36,21 +36,21 @@ body {
   border-radius: 100px;
   margin: -12px -45px 0px -5px;
 }
-.nav-item2{
+.nav-item2 {
   color: rgb(139, 134, 134);
 }
-.genarate{
+.genarate {
   width: 350px;
   height: 217px;
   color: white;
   font-size: 35px;
   margin: -10px 0px -10px 65px;
 }
-p{
+p {
   font-size: 22px;
   line-height: 32px;
 }
-.learn{
+.learn {
   background-color: #e93a7d;
   color: white;
   font-size: 16px;
@@ -59,44 +59,45 @@ p{
   border-radius: 100px;
   border-color: #e93a7d;
 }
-fieldset{
+fieldset {
   width: 430px;
   height: 430px;
   position: absolute;
   left: 475px;
   top: 128px;
   border-radius: 20px;
-  background-color: #EBEAED;
+  background-color: #ebeaed;
 }
-h3{
+h3 {
   font-size: 42px;
   text-align: center;
-  color: #1E0E62;
+  color: #1e0e62;
 }
-.formbar{
- padding: 5px 5px 0px 30px;
- margin: 5px 5px 0px 3px;
+.formbar {
+  padding: 5px 5px 0px 30px;
+  margin: 5px 5px 0px 3px;
   border: 1px solid black;
   width: 270px;
   height: 30px;
   border-radius: 20px;
   position: relative;
-  left: 60px; 
+  left: 60px;
   top: -15px;
 }
-.chbox{
+.chbox {
   position: relative;
   left: -244px;
-  top: 0px;
+  top: 0px; 
 }
-.terms{
+.terms {
   font-size: 18px;
   text-align: center;
   width: 300px;
   position: relative;
-  left: 62px;
+  left: 65px;
+  border: none;
 }
-.bt1{
+.bt1 {
   position: relative;
   font-size: 18px;
   right: -57px;
@@ -105,6 +106,32 @@ h3{
   height: 40px;
   border-radius: 100px;
   color: white;
-  background: #2F1893;
-border-color: #2F1893;
+  background: #2f1893;
+  border-color: #2f1893;
+}
+.bt2 {
+  position: relative;
+  font-size: 18px;
+  right: -57px;
+  bottom: -68px;
+  width: 320px;
+  height: 40px;
+  border-radius: 100px;
+  color: white;
+  background: #1da1f2;
+  border-color: #1da1f2;
+}
+.you {
+  position: relative;
+  top: 50px;
+  left: 80px;
+  font-size: 18px;
+}
+.sg{
+  position: relative;
+  left: 300px;
+  top: 4px;
+  font-size: 18px;
+  color: #25DAC5;
+  border:none ;
 }
