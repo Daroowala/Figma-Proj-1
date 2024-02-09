@@ -9,7 +9,7 @@ body {
   color: aliceblue;
   margin: 50px;
   width: 940px;
-  height: 490px;
+  height: 490px important;
 }
 .nav-container {
   width: 940px;
@@ -35,4 +35,20 @@ body {
   height: 40px;
   border-radius: 100px;
   margin: -12px -45px 0px -5px;
+}
+.nav-item2{
+  color: rgb(139, 134, 134);
+}
+.genarate{
+  width: 424px;
+  height: 217px;
+  color: white;
+  font-size: 35px;
+  margin: -10px 0px -10px 65px;
+}
+p{
+  width: 350px;
+  height: 160px;
+  font-size: 22px;
+  line-height: 32px;
 }
