@@ -1,6 +1,14 @@
 * {
   font-family: sans-serif;
 }
+@media only screen and(max-width:340px){
+body{
+  background-color: #e93a7d;
+}
+
+  
+}
+
 
 body {
   background: #2f1893;
